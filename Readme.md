@@ -2,4 +2,4 @@
 
 # Interface
 
-![Interface](https://imgur.com/a/EoRbT1q)
+![Interface](https://i.imgur.com/1wlcDde.png)
